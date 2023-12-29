@@ -1,5 +1,5 @@
 # python-project-1
-                       "Which animal lays the largest eggs?: ",
+ questions =            "Which animal lays the largest eggs?: ",
                        "What is the most abundant gas in Earth's atmosphere?: ",
                        "How many bones are in the human body?: ",
                        "Which planet in the solar system is the hottest?: ")
